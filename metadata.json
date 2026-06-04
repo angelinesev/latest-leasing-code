@@ -1,0 +1,6 @@
+{
+  "name": "Leasing & Purchase Roadmap",
+  "description": "An interactive, customized guide tracking the Philippine mall tenancy onboarding pipeline, from Brand Offer to Lease and DVC technical screening, up to the grand trade launch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
